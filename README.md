@@ -1,2 +1,2 @@
-# wsa_python_env
-WSA Python Environments
+# Environment Backups Only
+WSA Python Environments Backup in case anything goes wrong
