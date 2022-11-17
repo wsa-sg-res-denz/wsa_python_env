@@ -11,4 +11,4 @@ To use the spec file to install its listed packages into an existing environment
 <br>
 
 ## 2. Install remaining pip libraries
-type "pip install -r requirement.txt" on the command prompt to install all the required library package
+type `pip install -r requirement.txt` on the command prompt to install all the required library package
